@@ -3,15 +3,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on **TCS(OTPP)**
+- 🔭 I’m currently working on **TCS**
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Web Technology**
+- 👯 I’m looking to collaborate on **App Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabh2106?tab=repositories](https://github.com/saurabh2106?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Javascript, SQL**
+- 💬 Ask me about **Dart, Flutter, HTML, CSS, Javascript, SQL**
 
 - 📫 How to reach me **saurabhchaudhari2106@gmail.com**
 
