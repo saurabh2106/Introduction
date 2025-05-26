@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on **TCS**
+- 🔭 I’m currently working in **TCS**
 
 - 🌱 I’m currently learning **Flutter**
 
